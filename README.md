@@ -1,3 +1,3 @@
 # hello
 first repository
-author Ankur Kumar
+author Ankur Kumar awasthi
